@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name    = 'madmimi_for_rails_two'
-  s.version = '0.5.0'
+  s.version = '0.5.1'
   s.summary = 'Use madmimi with Rails 2'
 
   s.author   = 'Igor Soarez'
